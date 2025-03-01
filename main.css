@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: gray;
+}
+.ul{
+    display: flex;
+    gap: 1rem;
+}
